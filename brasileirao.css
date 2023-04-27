@@ -1,0 +1,84 @@
+table{
+    border: 1px solid #DDDDDD;
+   font-family: Arial, Helvetica, sans-serif;
+   width: 800px;
+   text-align: center;
+   border-collapse: collapse;
+
+
+}
+
+td{
+    font-size: 14px;
+    color: #666666;
+    width: 15px;
+    border-bottom: 1px solid #DDDDDD;
+    
+  
+
+}
+.libertadores{
+    color: #003366;
+}
+
+.pre-libertadores{
+    color: #1398BE;
+}
+
+.sulamericana{
+    color: #DE9800;
+}
+
+.neutro{
+    color: #CCCCCC;
+}
+
+.rebaixado{
+    color: #C91B04;
+}
+
+.libertadores,.pre-libertadores,.sulamericana,.neutro,.rebaixado{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;   
+}
+
+th{
+    font-size: 13px;
+    color: #999999;
+    border-bottom: 1px solid #DDDDDD;
+    
+    
+   
+}
+
+.time{
+    font-size: 14px;
+    color: #666666;
+    text-align: left !important;
+    font-weight: bold;
+    
+   
+}
+
+.pontos{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
+caption{
+    font-size: 20px !important;
+}
+
+.pontos, .vitoria, .derrota, .aproveitamento, .golsContra{
+    background-color:  #f5f5f5;
+}
+
+tr{
+    height: 25px;
+}
+
+caption{
+    
+}
